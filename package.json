@@ -1,5 +1,9 @@
 {
-  "dependencies": {
-    "style-dictionary": "^4.1.1"
+  "scripts": {
+    "type": "module",
+    "build": "style-dictionary build --verbose"
+  },
+  "devDependencies": {
+    "style-dictionary": "^4.1.2"
   }
 }

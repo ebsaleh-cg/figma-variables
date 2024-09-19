@@ -1,0 +1,71 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --sd-colours-brand-primary: #f57a7a;
+  --sd-colours-brand-secondary: #f5da7a;
+  --sd-colours-brand-tertiary: #7ac9f5;
+  --sd-fonts-headings: "Open Sans";
+  --sd-fonts-font-size: 32;
+  --sd-brand-colour-red-100: #ffd6d6;
+  --sd-brand-colour-red-200: #ffbcbc;
+  --sd-brand-colour-red-300: #ffa3a3;
+  --sd-brand-colour-red-400: #f57a7a;
+  --sd-brand-colour-red-500: #f56262;
+  --sd-brand-colour-blue-100: #cbecfe;
+  --sd-brand-colour-blue-200: #aadffd;
+  --sd-brand-colour-blue-300: #7ac9f5;
+  --sd-brand-colour-blue-400: #4fb6ef;
+  --sd-brand-colour-blue-500: #16a6f6;
+  --sd-brand-colour-grey-100: #f6f6f6;
+  --sd-brand-colour-grey-200: #eaeaea;
+  --sd-brand-colour-grey-300: #dfdfdf;
+  --sd-brand-colour-grey-400: #c9c9c9;
+  --sd-brand-colour-grey-500: #a3a3a3;
+  --sd-brand-colour-black: #000000;
+  --sd-brand-colour-white: #ffffff;
+  --sd-brand-type-font-weight-bold: bold;
+  --sd-brand-type-font-weight-regular: regular;
+  --sd-brand-type-font-family-primary: inter;
+  --sd-brand-type-font-family-secondary: Open Sans;
+  --sd-brand-mode-1-colour-red-100: #ffd6d6;
+  --sd-brand-mode-1-colour-red-200: #ffbcbc;
+  --sd-brand-mode-1-colour-red-300: #ffa3a3;
+  --sd-brand-mode-1-colour-red-400: #f57a7a;
+  --sd-brand-mode-1-colour-red-500: #f56262;
+  --sd-brand-mode-1-colour-blue-100: #cbecfe;
+  --sd-brand-mode-1-colour-blue-200: #aadffd;
+  --sd-brand-mode-1-colour-blue-300: #7ac9f5;
+  --sd-brand-mode-1-colour-blue-400: #4fb6ef;
+  --sd-brand-mode-1-colour-blue-500: #16a6f6;
+  --sd-brand-mode-1-colour-grey-100: #f6f6f6;
+  --sd-brand-mode-1-colour-grey-200: #eaeaea;
+  --sd-brand-mode-1-colour-grey-300: #dfdfdf;
+  --sd-brand-mode-1-colour-grey-400: #c9c9c9;
+  --sd-brand-mode-1-colour-grey-500: #a3a3a3;
+  --sd-brand-mode-1-colour-black: #000000;
+  --sd-brand-mode-1-colour-white: #ffffff;
+  --sd-brand-mode-1-type-font-weight-bold: bold;
+  --sd-brand-mode-1-type-font-weight-regular: regular;
+  --sd-brand-mode-1-type-font-family-primary: inter;
+  --sd-brand-mode-1-type-font-family-secondary: Open Sans;
+  --sd-responsive-font-size-body-sm: 14;
+  --sd-responsive-font-size-body-md: 16;
+  --sd-responsive-font-size-body-lg: 18;
+  --sd-responsive-font-size-heading-h3: 26;
+  --sd-responsive-font-size-heading-h2: 30;
+  --sd-responsive-font-size-heading-h1: 36;
+  --sd-responsive-line-height-body-sm: 20;
+  --sd-responsive-line-height-body-md: 26;
+  --sd-responsive-line-height-body-lg: 30;
+  --sd-responsive-mode-1-font-size-body-sm: 0.875rem;
+  --sd-responsive-mode-1-font-size-body-md: 1rem;
+  --sd-responsive-mode-1-font-size-body-lg: 1.125rem;
+  --sd-responsive-mode-1-font-size-heading-h3: 1.625rem;
+  --sd-responsive-mode-1-font-size-heading-h2: 1.875rem;
+  --sd-responsive-mode-1-font-size-heading-h1: 2.25rem;
+  --sd-responsive-mode-1-line-height-body-sm: 1.25rem;
+  --sd-responsive-mode-1-line-height-body-md: 1.625rem;
+  --sd-responsive-mode-1-line-height-body-lg: 1.875rem;
+}

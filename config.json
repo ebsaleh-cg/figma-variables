@@ -1,5 +1,6 @@
 {
   "source": ["tokens/**/*.json"],
+  "preprocessors": ["tokens-studio"],
   "platforms": {
     "scss": {
       "transformGroup": "scss",
@@ -23,3 +24,4 @@
     }
   }
 }
+
